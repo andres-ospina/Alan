@@ -1,0 +1,11 @@
+{
+  "name": "card-robot",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de electronica y software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laboratorio PS",
+  "license": "ISC"
+}
